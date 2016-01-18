@@ -1,16 +1,16 @@
 {
-    "aliquot": 1, 
+    "aliquot": 11, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "51.19 mg", 
+    "comment": "single crystal step-heat", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
-            "deflection": 120.0, 
+            "deflection": 165.0, 
             "gain": null
         }, 
         "CDD": {
-            "deflection": 130.0, 
+            "deflection": 10.0, 
             "gain": null
         }, 
         "H1": {
@@ -18,24 +18,24 @@
             "gain": null
         }, 
         "H2": {
-            "deflection": 200.0, 
+            "deflection": 0.0, 
             "gain": null
         }, 
         "L1": {
-            "deflection": 200.0, 
+            "deflection": 320.0, 
             "gain": null
         }, 
         "L2": {
-            "deflection": 420.0, 
+            "deflection": 725.0, 
             "gain": null
         }
     }, 
     "extraction": "", 
-    "identifier": "63883", 
-    "increment": null, 
+    "identifier": "63882", 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "F", 
-    "irradiation_position": 3, 
+    "irradiation_position": 2, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -68,15 +68,15 @@
             "detector": "H2"
         }
     }, 
-    "mass_spectrometer": "obama", 
-    "material": "Groundmass Concentrate", 
+    "mass_spectrometer": "jan", 
+    "material": "plag \u00b1 kspar", 
     "measurement": "", 
     "project": "Lucero", 
     "queue_conditionals_name": "", 
     "repository_identifier": "Lucero", 
-    "sample": "NMLC-08", 
-    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-11-11T01:29:05", 
+    "sample": "NMLC-07 (small xenocrysts)", 
+    "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb", 
+    "timestamp": "2015-11-10T01:19:17", 
     "username": "root", 
-    "uuid": "a0bd6859-b6ae-4da0-8b3c-13cbbb9b3ea0"
+    "uuid": "14d6ef6d-a8e4-4c85-b6bb-421136f8f758"
 }

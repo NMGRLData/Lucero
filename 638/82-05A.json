@@ -1,8 +1,8 @@
 {
-    "aliquot": 4, 
+    "aliquot": 5, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "single crystal", 
+    "comment": "single crystal step-heat", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -32,7 +32,7 @@
     }, 
     "extraction": "", 
     "identifier": "63882", 
-    "increment": null, 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "F", 
     "irradiation_position": 2, 
@@ -76,7 +76,7 @@
     "repository_identifier": "Lucero", 
     "sample": "NMLC-07 (small xenocrysts)", 
     "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb", 
-    "timestamp": "2015-11-06T09:24:04", 
+    "timestamp": "2015-11-09T08:37:33", 
     "username": "", 
-    "uuid": "c8bd6876-e398-4350-af2a-6abe64f983e8"
+    "uuid": "b0523683-c46c-4ff5-92be-cbbe794d40a2"
 }
