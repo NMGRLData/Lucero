@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "99.79 mg", 
+    "comment": "51.56 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63876", 
-    "increment": null, 
+    "identifier": "63880", 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "E", 
-    "irradiation_position": 2, 
+    "irradiation_position": 6, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "Lucero", 
     "queue_conditionals_name": "", 
     "repository_identifier": "Lucero", 
-    "sample": "NMLC-02", 
+    "sample": "NMLC-06", 
     "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-11-07T10:34:21", 
+    "timestamp": "2015-11-10T21:37:40", 
     "username": "root", 
-    "uuid": "2452efe1-4ef3-4dc6-a84b-dae62598c41f"
+    "uuid": "6ab28ac1-90f2-4865-a968-cddc3303e434"
 }
