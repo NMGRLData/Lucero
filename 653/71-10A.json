@@ -1,0 +1,73 @@
+{
+    "aliquot": 10, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "single crystal", 
+    "commit": "30c72925146d9d54f85353426bae6c5f1e1d33bc", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 190.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 50.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 400.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 825.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_co2.py", 
+    "identifier": "65371", 
+    "increment": 0, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-287", 
+    "irradiation_level": "D", 
+    "irradiation_position": 6, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Jan", 
+    "material": "Sanidine", 
+    "measurement": "jan_unknown400_120.py", 
+    "project": "Lucero", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Lucero", 
+    "sample": "NMLC-01", 
+    "spec_sha": "ad8224ebc6dbfeb9f5997218dfa5fe690569839d", 
+    "timestamp": "2016-10-28T05:17:06.459467", 
+    "tripped_conditional": null, 
+    "username": "root", 
+    "uuid": "daf7e06b-7c13-4e6f-992c-2eacb87c2aa4"
+}
